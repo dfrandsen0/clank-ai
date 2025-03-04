@@ -15,8 +15,6 @@ To run the program, do the following:
 1. Compile by using 'make' with the given Makefile
 2. Run the program: ```./clank```
 
-The program will pause every time 
-
 ### Caution
 
 This program is unfinished. It will only sort of work out of the box. You can simulate two AI against each other, and it works with a human player, but you'll have to study human.c and human.h to determine what format to give moves and buys.
